@@ -49,7 +49,7 @@ The model uses Random Forest Regressor for prediction, as it showed the best per
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/healthcare-charge-predictor.git](https://github.com/laurencardieri/Healthcare.git)
+   git clone (https://github.com/laurencardieri/Healthcare.git)
    cd Healthcare
 
 2. **Install requirements**
